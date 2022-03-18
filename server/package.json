@@ -1,0 +1,24 @@
+{
+  "name": "golf-server",
+  "version": "0.1.0",
+  "description": "Socket IO server for golf card game.",
+  "main": "dist/server/server.js",
+  "engines": {
+    "node": "17.2.0"
+  },
+  "scripts": {
+    "dev": "nodemon server.ts",
+    "build": "tsc --build",
+    "clean": "tsc --build --clean",
+    "start": "node dist/server/server.js"
+  },
+  "dependencies": {
+    "nanoid": "^3.1.30",
+    "socket.io": "^4.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
