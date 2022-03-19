@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/golf-game/static/css/main.5b1e5696.css",
-    "main.js": "/golf-game/static/js/main.cff51223.js",
+    "main.js": "/golf-game/static/js/main.99306e9f.js",
     "static/js/787.94d7ae98.chunk.js": "/golf-game/static/js/787.94d7ae98.chunk.js",
     "index.html": "/golf-game/index.html",
     "static/media/golf.svg": "/golf-game/static/media/golf.0e08322bfd3371c1af5577890413d8bc.svg",
@@ -13,11 +13,11 @@
     "static/media/chevron-down.svg": "/golf-game/static/media/chevron-down.2a84cf4e308966f9a1fc4f60aff687ad.svg",
     "static/media/dot.svg": "/golf-game/static/media/dot.0f82f075f45792c9c8f5bf6e95a27451.svg",
     "main.5b1e5696.css.map": "/golf-game/static/css/main.5b1e5696.css.map",
-    "main.cff51223.js.map": "/golf-game/static/js/main.cff51223.js.map",
+    "main.99306e9f.js.map": "/golf-game/static/js/main.99306e9f.js.map",
     "787.94d7ae98.chunk.js.map": "/golf-game/static/js/787.94d7ae98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b1e5696.css",
-    "static/js/main.cff51223.js"
+    "static/js/main.99306e9f.js"
   ]
 }
