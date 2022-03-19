@@ -2,7 +2,7 @@
   "name": "golf-server",
   "version": "0.1.0",
   "description": "Socket IO server for golf card game.",
-  "main": "dist/server/server.js",
+  "main": "dist/server.js",
   "engines": {
     "node": "17.2.0"
   },
@@ -10,7 +10,7 @@
     "dev": "nodemon server.ts",
     "build": "tsc --build",
     "clean": "tsc --build --clean",
-    "start": "node dist/server/server.js"
+    "start": "node dist/server.js"
   },
   "dependencies": {
     "@yiyumin/golf-card-game-library": "^0.2.0",
