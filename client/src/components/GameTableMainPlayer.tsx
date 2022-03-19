@@ -5,7 +5,7 @@ import {
   PlayerWithPlayerCards,
   RoundState,
   TurnState,
-} from '@yiyumin/golf-card-game-library/types';
+} from '@yiyumin/golf-game-library/types';
 
 import { ReactComponent as CheckIcon } from '../icons/check.svg';
 

@@ -1,10 +1,5 @@
-import {
-  suits,
-  ranks,
-  Card,
-  Rank,
-} from '@yiyumin/golf-card-game-library/types';
-import { shuffle } from '@yiyumin/golf-card-game-library/utils';
+import { suits, ranks, Card, Rank } from '@yiyumin/golf-game-library/types';
+import { shuffle } from '@yiyumin/golf-game-library/utils';
 
 const createDeck = (): Card[] =>
   suits.flatMap((suit) => ranks.map((rank) => ({ suit, rank })));

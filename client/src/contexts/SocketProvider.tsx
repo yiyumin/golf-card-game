@@ -4,7 +4,7 @@ import { io, Socket } from 'socket.io-client';
 import {
   ServerToClientEvents,
   ClientToServerEvents,
-} from '@yiyumin/golf-card-game-library/types';
+} from '@yiyumin/golf-game-library/types';
 
 const socketUrl = process.env.REACT_APP_SOCKET_URL as string;
 

@@ -3,7 +3,7 @@ import {
   GameState,
   RoundState,
   TurnState,
-} from '@yiyumin/golf-card-game-library/types';
+} from '@yiyumin/golf-game-library/types';
 
 import GameTableSharedCards from './GameTableSharedCards';
 import GameTableSharedControls from './GameTableSharedControls';

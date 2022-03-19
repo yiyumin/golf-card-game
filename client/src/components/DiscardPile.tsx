@@ -1,4 +1,4 @@
-import { Card } from '@yiyumin/golf-card-game-library/types';
+import { Card } from '@yiyumin/golf-game-library/types';
 
 import CardWrapper from './CardWrapper';
 import CardFaceup from './CardFaceup';
