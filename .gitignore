@@ -5,9 +5,6 @@
 /client/.pnp
 .pnp.js
 
-## testing
-/client/coverage
-
 ## production
 /client/build
 
@@ -22,6 +19,9 @@ yarn-error.log*
 
 ## production
 /server/dist
+
+## misc
+/server/.env
 
 # misc
 .DS_Store

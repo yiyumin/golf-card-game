@@ -11,11 +11,11 @@ import registerGameHandler from './events/registerGameHandler';
 import registerErrorHandler from './events/registerErrorHandler';
 
 const port = parseInt(process.env.PORT) || 3001;
-const clientUrl = process.env.CLIENT_URL;
+const clientUrls = process.env.CLIENT_URLS.split(',');
 
 const io = new Server(port, {
   cors: {
-    origin: clientUrl,
+    origin: clientUrls,
   },
 }) as GolfServer;
 
