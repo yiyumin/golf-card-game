@@ -1,4 +1,9 @@
-import { Card, GameState, RoundState, TurnState } from '../../../lib/types';
+import {
+  Card,
+  GameState,
+  RoundState,
+  TurnState,
+} from '@yiyumin/golf-card-game-library/types';
 
 import GameTableSharedCards from './GameTableSharedCards';
 import GameTableSharedControls from './GameTableSharedControls';

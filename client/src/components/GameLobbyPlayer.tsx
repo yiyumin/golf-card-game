@@ -1,4 +1,4 @@
-import { PlayerWithPlayerCards } from '../../../lib/types';
+import { PlayerWithPlayerCards } from '@yiyumin/golf-card-game-library/types';
 
 import PlayerBadge from './PlayerBadge';
 

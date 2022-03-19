@@ -6,7 +6,7 @@ import {
   PlayerWithPlayerCards,
   RoundState,
   TurnState,
-} from '../../../lib/types';
+} from '@yiyumin/golf-card-game-library/types';
 import { Status } from '../types';
 
 import GameTablePlayers from './GameTablePlayers';

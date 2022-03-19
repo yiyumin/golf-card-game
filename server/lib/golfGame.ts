@@ -6,8 +6,8 @@ import {
   GameState,
   RoundState,
   TurnState,
-} from './types';
-import { shuffle } from './utils';
+} from '@yiyumin/golf-card-game-library/types';
+import { shuffle } from '@yiyumin/golf-card-game-library/utils';
 import { getShuffledDeck, calculateScore } from './deckHelper';
 
 class GolfGame {

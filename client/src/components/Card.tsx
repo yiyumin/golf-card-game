@@ -1,4 +1,4 @@
-import { PlayerCard } from '../../../lib/types';
+import { PlayerCard } from '@yiyumin/golf-card-game-library/types';
 import { CardType } from '../types';
 
 import CardWrapper from './CardWrapper';

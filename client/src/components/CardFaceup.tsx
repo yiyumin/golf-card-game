@@ -1,6 +1,6 @@
 import clsx from 'clsx';
 
-import { Suit, Card } from '../../../lib/types';
+import { Suit, Card } from '@yiyumin/golf-card-game-library/types';
 import { CardType } from '../types';
 
 const SUIT_COLOR_MAP: Record<Suit, string> = {

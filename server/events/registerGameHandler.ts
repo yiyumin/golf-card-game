@@ -1,4 +1,8 @@
-import { GameProps, Card, ErrorType } from '../../lib/types';
+import {
+  GameProps,
+  Card,
+  ErrorType,
+} from '@yiyumin/golf-card-game-library/types';
 import { GolfServer, GolfSocket } from '../types';
 
 import { GameStoreInterface } from '../stores/gameStore';

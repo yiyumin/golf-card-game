@@ -1,4 +1,7 @@
-import { GameState, PlayerWithPlayerCards } from '../../../../lib/types';
+import {
+  GameState,
+  PlayerWithPlayerCards,
+} from '@yiyumin/golf-card-game-library/types';
 import { Status } from '../../types';
 import PlayerStatus from '../PlayerStatus';
 

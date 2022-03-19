@@ -1,4 +1,4 @@
-import GolfGame from '../../lib/golfGame';
+import GolfGame from '../lib/golfGame';
 import { randomGameId } from '../utils';
 
 interface GameStoreInterface {

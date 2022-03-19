@@ -1,4 +1,4 @@
-import { Card } from '../../../lib/types';
+import { Card } from '@yiyumin/golf-card-game-library/types';
 
 import DiscardPile from './DiscardPile';
 import DrawPile from './DrawPile';

@@ -10,7 +10,7 @@ import {
   TurnState,
   ServerToClientEvents,
   ClientToServerEvents,
-} from '../../../lib/types';
+} from '@yiyumin/golf-card-game-library/types';
 import { Status } from '../types';
 
 export type GameLogEntry = {

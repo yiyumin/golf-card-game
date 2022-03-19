@@ -1,4 +1,4 @@
-import { ErrorType } from '../../lib/types';
+import { ErrorType } from '@yiyumin/golf-card-game-library/types';
 import { GolfSocket } from '../types';
 
 const registerErrorHandler = (socket: GolfSocket) => {

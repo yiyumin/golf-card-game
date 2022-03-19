@@ -4,7 +4,7 @@ import {
   ServerToClientEvents,
   InterServerEvents,
   SocketData,
-} from '../lib/types';
+} from '@yiyumin/golf-card-game-library/types';
 
 type GolfServer = Server<
   ClientToServerEvents,

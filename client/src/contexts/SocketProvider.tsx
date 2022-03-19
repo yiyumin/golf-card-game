@@ -1,7 +1,10 @@
 import React, { useContext, useEffect, useState, useRef } from 'react';
 import { io, Socket } from 'socket.io-client';
 
-import { ServerToClientEvents, ClientToServerEvents } from '../../../lib/types';
+import {
+  ServerToClientEvents,
+  ClientToServerEvents,
+} from '@yiyumin/golf-card-game-library/types';
 
 const socketUrl = process.env.REACT_APP_SOCKET_URL as string;
 

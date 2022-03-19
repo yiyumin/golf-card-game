@@ -4,7 +4,7 @@ import BackNavigation from './BackNavigation';
 import GameLobbyPlayers from './GameLobbyPlayers';
 import GameLobbySettings from './GameLobbySettings';
 import { ChangeGameWordModal } from './modals';
-import { PlayerWithPlayerCards } from '../../../lib/types';
+import { PlayerWithPlayerCards } from '@yiyumin/golf-card-game-library/types';
 
 type GameLobbyProps = {
   gameId: string;
