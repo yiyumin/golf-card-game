@@ -159,7 +159,7 @@ const RulesModal = ({ isOpen, handleClose }: RulesModalProps) => {
   return (
     <Modal isOpen={isOpen} handleClose={handleClose}>
       <div className='pointer-events-none flex h-full w-full justify-center'>
-        <div className='h-full w-11/12 snap-y snap-mandatory overflow-hidden'>
+        <div className='h-full w-11/12 snap-y snap-mandatory overflow-y-auto scrollbar-hide'>
           {rules.map(({ header, content }, idx) => (
             <div
               key={idx}
