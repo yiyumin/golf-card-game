@@ -12,7 +12,7 @@ const GameLobbySettingsInvite = ({ gameId }: GameLobbySettingsInviteProps) => {
   const [copyClicked, setCopyClicked] = useState(false);
 
   const copyUrlToClipboard = () => {
-    navigator.clipboard.writeText(`${url}/${gameId}`);
+    navigator.clipboard.writeText(`${url}/#/${gameId}`);
     setCopyClicked(true);
   };
 
