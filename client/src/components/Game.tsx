@@ -57,7 +57,7 @@ const Game = () => {
     callGolf,
     getPlayerBadgeStatus,
     getPlayerResultStatus,
-  } = useGame(socket, userId, gameId);
+  } = useGame(socket, userId, gameId.toLowerCase());
 
   const goBack = useCallback(() => {
     kickPlayer(userId);
