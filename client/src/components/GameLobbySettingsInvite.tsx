@@ -2,7 +2,7 @@ import { useState } from 'react';
 
 import { Button } from './buttons';
 
-const url = process.env.REACT_APP_URL as string;
+const url = process.env.PUBLIC_URL as string;
 
 type GameLobbySettingsInviteProps = {
   gameId: string;
