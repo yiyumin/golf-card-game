@@ -8,7 +8,7 @@ import Game from './components/Game';
 
 const App = () => (
   <SocketProvider>
-    <Router basename={process.env.REACT_APP_URL_BASENAME}>
+    <Router>
       <Wrapper>
         <Routes>
           <Route path='/' element={<Home />} />

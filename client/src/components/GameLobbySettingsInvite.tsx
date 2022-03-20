@@ -26,7 +26,7 @@ const GameLobbySettingsInvite = ({ gameId }: GameLobbySettingsInviteProps) => {
           type='text'
           id='game-url'
           className='w-full overflow-auto rounded-md p-1 text-xs text-black lg:text-base'
-          value={`${url}/${gameId}`}
+          value={`${url}/#/${gameId}`}
           onFocus={(e) => e.target.select()}
           readOnly
         />
