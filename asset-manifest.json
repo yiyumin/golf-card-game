@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://yiyumin.github.io/golf-game/static/css/main.cd93d7ce.css",
-    "main.js": "https://yiyumin.github.io/golf-game/static/js/main.656c4862.js",
+    "main.js": "https://yiyumin.github.io/golf-game/static/js/main.7beeb606.js",
     "static/js/787.94d7ae98.chunk.js": "https://yiyumin.github.io/golf-game/static/js/787.94d7ae98.chunk.js",
     "index.html": "https://yiyumin.github.io/golf-game/index.html",
     "static/media/golf.svg": "https://yiyumin.github.io/golf-game/static/media/golf.0e08322bfd3371c1af5577890413d8bc.svg",
@@ -13,11 +13,11 @@
     "static/media/chevron-down.svg": "https://yiyumin.github.io/golf-game/static/media/chevron-down.2a84cf4e308966f9a1fc4f60aff687ad.svg",
     "static/media/dot.svg": "https://yiyumin.github.io/golf-game/static/media/dot.0f82f075f45792c9c8f5bf6e95a27451.svg",
     "main.cd93d7ce.css.map": "https://yiyumin.github.io/golf-game/static/css/main.cd93d7ce.css.map",
-    "main.656c4862.js.map": "https://yiyumin.github.io/golf-game/static/js/main.656c4862.js.map",
+    "main.7beeb606.js.map": "https://yiyumin.github.io/golf-game/static/js/main.7beeb606.js.map",
     "787.94d7ae98.chunk.js.map": "https://yiyumin.github.io/golf-game/static/js/787.94d7ae98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd93d7ce.css",
-    "static/js/main.656c4862.js"
+    "static/js/main.7beeb606.js"
   ]
 }
