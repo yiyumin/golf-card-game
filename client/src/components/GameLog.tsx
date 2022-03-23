@@ -49,7 +49,7 @@ const GameLog = ({ gameLog, playerNames }: GameLogProps) => {
               />
             ))}
 
-            <div ref={endRef} />
+            <div ref={endRef} className='h-1' />
           </div>
         </div>
       </div>
