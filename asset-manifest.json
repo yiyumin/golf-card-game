@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://yiyumin.github.io/golf-game/static/css/main.615afe28.css",
-    "main.js": "https://yiyumin.github.io/golf-game/static/js/main.d08cec4a.js",
-    "static/js/787.5cbade20.chunk.js": "https://yiyumin.github.io/golf-game/static/js/787.5cbade20.chunk.js",
-    "index.html": "https://yiyumin.github.io/golf-game/index.html",
-    "static/media/golf.svg": "https://yiyumin.github.io/golf-game/static/media/golf.0e08322bfd3371c1af5577890413d8bc.svg",
-    "static/media/pencil.svg": "https://yiyumin.github.io/golf-game/static/media/pencil.ea189ec24d3f5f91d9e94d91a0319ed6.svg",
-    "static/media/x.svg": "https://yiyumin.github.io/golf-game/static/media/x.f94c0f99d853beb70bee8c7328432ad2.svg",
-    "static/media/check.svg": "https://yiyumin.github.io/golf-game/static/media/check.a5540c934b5b542d84a73d2ba7821514.svg",
-    "static/media/chevron-left.svg": "https://yiyumin.github.io/golf-game/static/media/chevron-left.da9e8849ea63f10db213ae74c4994afe.svg",
-    "static/media/chevron-up.svg": "https://yiyumin.github.io/golf-game/static/media/chevron-up.13c170e1a862ccb2b5da1591eb4971ee.svg",
-    "static/media/chevron-down.svg": "https://yiyumin.github.io/golf-game/static/media/chevron-down.2a84cf4e308966f9a1fc4f60aff687ad.svg",
-    "static/media/dot.svg": "https://yiyumin.github.io/golf-game/static/media/dot.0f82f075f45792c9c8f5bf6e95a27451.svg",
-    "main.615afe28.css.map": "https://yiyumin.github.io/golf-game/static/css/main.615afe28.css.map",
-    "main.d08cec4a.js.map": "https://yiyumin.github.io/golf-game/static/js/main.d08cec4a.js.map",
-    "787.5cbade20.chunk.js.map": "https://yiyumin.github.io/golf-game/static/js/787.5cbade20.chunk.js.map"
+    "main.css": "https://golf.yuminyi.com/static/css/main.615afe28.css",
+    "main.js": "https://golf.yuminyi.com/static/js/main.033b45ef.js",
+    "static/js/787.5cbade20.chunk.js": "https://golf.yuminyi.com/static/js/787.5cbade20.chunk.js",
+    "index.html": "https://golf.yuminyi.com/index.html",
+    "static/media/golf.svg": "https://golf.yuminyi.com/static/media/golf.0e08322bfd3371c1af5577890413d8bc.svg",
+    "static/media/pencil.svg": "https://golf.yuminyi.com/static/media/pencil.ea189ec24d3f5f91d9e94d91a0319ed6.svg",
+    "static/media/x.svg": "https://golf.yuminyi.com/static/media/x.f94c0f99d853beb70bee8c7328432ad2.svg",
+    "static/media/check.svg": "https://golf.yuminyi.com/static/media/check.a5540c934b5b542d84a73d2ba7821514.svg",
+    "static/media/chevron-left.svg": "https://golf.yuminyi.com/static/media/chevron-left.da9e8849ea63f10db213ae74c4994afe.svg",
+    "static/media/chevron-up.svg": "https://golf.yuminyi.com/static/media/chevron-up.13c170e1a862ccb2b5da1591eb4971ee.svg",
+    "static/media/chevron-down.svg": "https://golf.yuminyi.com/static/media/chevron-down.2a84cf4e308966f9a1fc4f60aff687ad.svg",
+    "static/media/dot.svg": "https://golf.yuminyi.com/static/media/dot.0f82f075f45792c9c8f5bf6e95a27451.svg",
+    "main.615afe28.css.map": "https://golf.yuminyi.com/static/css/main.615afe28.css.map",
+    "main.033b45ef.js.map": "https://golf.yuminyi.com/static/js/main.033b45ef.js.map",
+    "787.5cbade20.chunk.js.map": "https://golf.yuminyi.com/static/js/787.5cbade20.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.615afe28.css",
-    "static/js/main.d08cec4a.js"
+    "static/js/main.033b45ef.js"
   ]
 }
