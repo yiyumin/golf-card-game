@@ -17,7 +17,7 @@ const NavigationButton = ({
 }: NavigationButtonProps) => (
   <button
     className={clsx(
-      'rounded-2xl font-bold uppercase text-white hover:shadow-sm',
+      'relative rounded-2xl font-bold uppercase text-white hover:shadow-sm',
       buttonSize === 'small'
         ? 'h-10 w-3/5 text-base md:h-16 md:w-52 md:text-2xl'
         : 'h-20 w-4/5 text-2xl md:w-80',
